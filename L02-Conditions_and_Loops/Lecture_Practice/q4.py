@@ -12,4 +12,4 @@ w = int(input())
 while s <= e:
     c = int((5 / 9) * (s - 32))
     print(s, '\t', c)
-    s = s + w
+    s = s + c
